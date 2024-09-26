@@ -40,6 +40,7 @@ section {
     margin-bottom: -20px;
     font-family: "Poppins";
     font-weight: 500;
+    background-color: var(--primary-color);
 }
 
 ul {
@@ -985,7 +986,7 @@ section h2 {
     color: var(--red-color);
 }
 
-/* Responsive adjustments */
+/* Ngatur biar Responsive */
 @media (max-width: 768px) {
     .footer-grid {
         grid-template-columns: 1fr;
